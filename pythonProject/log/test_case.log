@@ -1,0 +1,36 @@
+2022-07-20 23:23:00 - root[89] - INFO -sqlHandler:  case_1用例,添加用户,sql语句"删除数据成功"
+2022-07-20 23:23:00 - root[39] - INFO -test_01_add_user:  正在向 http://124.220.179.221:8081/cms/manage/saveSysUser.do 发送请求，case_1,添加用户
+2022-07-20 23:23:00 - root[22] - INFO -assertHandler:  case_1用例,添加用户,测试通过!
+2022-07-20 23:23:00 - root[89] - INFO -sqlHandler:  case_2用例,添加用户,sql语句"删除数据成功"
+2022-07-20 23:23:00 - root[39] - INFO -test_01_add_user:  正在向 http://124.220.179.221:8081/cms/manage/saveSysUser.do 发送请求，case_2,添加用户
+2022-07-20 23:23:00 - root[22] - INFO -assertHandler:  case_2用例,添加用户,测试通过!
+2022-07-20 23:23:00 - root[89] - INFO -sqlHandler:  case_3用例,添加用户,sql语句"删除数据成功"
+2022-07-20 23:23:00 - root[39] - INFO -test_01_add_user:  正在向 http://124.220.179.221:8081/cms/manage/saveSysUser.do 发送请求，case_3,添加用户
+2022-07-20 23:23:00 - root[89] - INFO -sqlHandler:  case_4用例,添加用户,sql语句"删除数据成功"
+2022-07-20 23:23:00 - root[39] - INFO -test_01_add_user:  正在向 http://124.220.179.221:8081/cms/manage/saveSysUser.do 发送请求，case_4,添加用户
+2022-07-20 23:23:00 - root[29] - WARNING -assertHandler:  case_4用例,添加用户,第一层校验测试通过!
+2022-07-20 23:23:00 - root[89] - INFO -sqlHandler:  case_5用例,添加用户,sql语句"删除数据成功"
+2022-07-20 23:23:00 - root[39] - INFO -test_01_add_user:  正在向 http://124.220.179.221:8081/cms/manage/saveSysUser.do 发送请求，case_5,添加用户
+2022-07-20 23:23:00 - root[89] - INFO -sqlHandler:  case_6用例,添加用户,sql语句"删除数据成功"
+2022-07-20 23:23:00 - root[39] - INFO -test_01_add_user:  正在向 http://124.220.179.221:8081/cms/manage/saveSysUser.do 发送请求，case_6,添加用户
+2022-07-20 23:23:01 - root[38] - INFO -assertHandler:  case_6用例,添加用户,数据库校验通过,测试通过!
+2022-07-20 23:23:01 - root[89] - INFO -sqlHandler:  case_7用例,添加用户,sql语句"删除数据成功"
+2022-07-20 23:23:01 - root[39] - INFO -test_01_add_user:  正在向 http://124.220.179.221:8081/cms/manage/saveSysUser.do 发送请求，case_7,添加用户
+2022-07-20 23:23:01 - root[43] - WARNING -assertHandler:  case_7用例,添加用户,该用例只进行了后置处理!!
+2022-07-20 23:23:01 - root[89] - INFO -sqlHandler:  case_8用例,添加用户,sql语句"删除数据成功"
+2022-07-20 23:23:01 - root[39] - INFO -test_01_add_user:  正在向 http://124.220.179.221:8081/cms/manage/saveSysUser.do 发送请求，case_8,添加用户
+2022-07-20 23:23:01 - root[46] - WARNING -assertHandler:  case_8用例,添加用户,没有断言没有数据库校验没有后置处理!!!
+2022-07-20 23:23:01 - root[89] - INFO -sqlHandler:  case_9用例,多条sql语句,sql语句"删除数据成功"
+2022-07-20 23:23:01 - root[89] - INFO -sqlHandler:  case_9用例,多条sql语句,sql语句"删除数据成功"
+2022-07-20 23:23:01 - root[39] - INFO -test_01_add_user:  正在向 http://124.220.179.221:8081/cms/manage/saveSysUser.do 发送请求，case_9,多条sql语句
+2022-07-20 23:23:01 - root[22] - INFO -assertHandler:  case_9用例,多条sql语句,测试通过!
+2022-07-20 23:23:01 - root[39] - INFO -test_01_add_user:  正在向 http://124.220.179.221:8081/cms/manage/deleteByIds.do 发送请求，case_10,删除用户解决数据库动态数据依赖
+2022-07-20 23:23:01 - root[46] - WARNING -assertHandler:  case_10用例,删除用户解决数据库动态数据依赖,没有断言没有数据库校验没有后置处理!!!
+2022-07-20 23:23:01 - root[39] - INFO -test_02_token:  正在向 http://49.234.14.39:5001/user/login 发送请求，case_1,获取tonken
+2022-07-20 23:23:01 - root[29] - WARNING -assertHandler:  case_1用例,获取tonken,第一层校验测试通过!
+2022-07-20 23:23:01 - root[39] - INFO -test_02_token:  正在向 http://49.234.14.39:5001/user/query 发送请求，case_2,查询用户接口解决动态数据依赖
+2022-07-20 23:23:01 - root[29] - WARNING -assertHandler:  case_2用例,查询用户接口解决动态数据依赖,第一层校验测试通过!
+2022-07-20 23:23:01 - root[39] - INFO -test_02_token:  正在向 http://49.234.14.39:5001/user/query 发送请求，case_3,查询用户接口解决动态数据依赖
+2022-07-20 23:23:01 - root[29] - WARNING -assertHandler:  case_3用例,查询用户接口解决动态数据依赖,第一层校验测试通过!
+2022-07-20 23:32:17 - root[39] - INFO -emailHandler:  邮件发送成功
+2022-07-20 23:32:19 - root[39] - INFO -emailHandler:  邮件发送成功
